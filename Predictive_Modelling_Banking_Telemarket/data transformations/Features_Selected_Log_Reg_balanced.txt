@@ -1,0 +1,7 @@
+['emp_var_rate_log']
+['day_of_week', 'emp_var_rate_log']
+['month', 'pdays', 'nr_employed_log']
+['month', 'pdays', 'cons_conf_idx', 'nr_employed_log']
+['month', 'pdays', 'cons_conf_idx', 'nr_employed_log', 'cons_price_idx_log']
+['month', 'pdays', 'cons_conf_idx', 'nr_employed_log', 'emp_var_rate_log', 'cons_price_idx_log']
+['month', 'pdays', 'cons_conf_idx', 'nr_employed_log', 'campaign_log', 'emp_var_rate_log', 'cons_price_idx_log']

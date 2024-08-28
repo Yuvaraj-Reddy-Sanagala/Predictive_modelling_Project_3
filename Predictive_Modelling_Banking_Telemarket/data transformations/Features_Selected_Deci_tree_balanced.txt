@@ -1,0 +1,7 @@
+['euribor3m_log']
+['emp_var_rate_log', 'euribor3m_log']
+['contact', 'emp_var_rate_log', 'euribor3m_log']
+['contact', 'day_of_week', 'emp_var_rate_log', 'euribor3m_log']
+['contact', 'day_of_week', 'poutcome', 'emp_var_rate_log', 'euribor3m_log']
+['contact', 'day_of_week', 'poutcome', 'cons_conf_idx', 'emp_var_rate_log', 'euribor3m_log']
+['contact', 'day_of_week', 'poutcome', 'pdays', 'cons_conf_idx', 'emp_var_rate_log', 'euribor3m_log']
